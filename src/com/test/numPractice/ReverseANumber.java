@@ -1,4 +1,4 @@
-package com.test.numPractice;
+package numPractice;
 
 import java.util.Scanner;
 
